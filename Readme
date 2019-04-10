@@ -1,0 +1,13 @@
+Proposed polymorphic Haskell2020 container for compiling statically linked binaries written in Haskell addressing Generics in Golang
+
+Furthering the proposed Generic support for Go, this project is inspired by golang-builder and haskell-builder for Go.
+This is for providing the same results for Haskell binaries.
+ 
+
+Overview
+
+Thanks
+Thanks to Dan Kubb dkubb for his Haskell container for this project. See dkubb/haskell-builder
+
+
+
