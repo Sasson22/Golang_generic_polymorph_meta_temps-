@@ -1,15 +1,11 @@
-Proposed Haskell2020 container for compiling statically linked binaries written in Haskell to compile C for Golang and compiling to machine code.
+This is to addres functional use of Generics and various templates for elegant adaptation in Golang.
 
-This is to address libraries, compiling C, making use of Generics and various templates for elegant adaptation in Golang.
+Proposed for compiling statically linked binaries written in Haskell for libraries to compile to machine code. 
 
-Furthering the proposed Generic support for Go, this project is inspired by golang-builder and haskell-builder for Go.
+Furthering the proposed Generic support for Golang, this project is inspired by golang-builder and haskell-builder for Go.
 This is for providing the same results for Haskell binaries.
  
-
 Overview
 
 Thanks
 Thanks to Dan Kubb dkubb for his Haskell container for this project. See dkubb/haskell-builder
-
-
-
