@@ -1,4 +1,4 @@
-This is to addres functional use of Generics and various templates for elegant adaptation in Golang.
+This is to address functional use of Generics and various templates for elegant adaptation in Golang.
 
 Proposed for compiling statically linked binaries written in Haskell for libraries to compile to machine code. 
 
